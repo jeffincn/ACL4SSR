@@ -5524,9 +5524,6 @@
 .afd.l.google.com reject
 .badad.googleplex.com reject
 .csi.gstatic.com reject
-.doubleclick.com reject
-.doubleclick.net reject
-.google-analytics.com reject
 .googleadservices.com reject
 .googleadsserving.cn reject
 .googlecommerce.com reject
