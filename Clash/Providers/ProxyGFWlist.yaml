@@ -6366,3 +6366,7 @@ payload:
   # VikACG
   - DOMAIN-SUFFIX,vikacg.com
   - DOMAIN-SUFFIX,picjs.xyz
+
+  # Dev
+  - DOMAIN,aigc-dev.cluster-csh3ywizrhjh.us-east-1.rds.amazonaws.com
+  - DOMAIN,ec2-23-22-28-32.compute-1.amazonaws.com
